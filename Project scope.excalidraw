@@ -1,0 +1,52 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "QO71BpOI_F3Hp7OpO5_pa",
+      "type": "text",
+      "x": 878,
+      "y": -368,
+      "width": 389,
+      "height": 850,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bGv",
+      "roundness": null,
+      "seed": 1266955589,
+      "version": 861,
+      "versionNonce": 424548459,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1751458584413,
+      "link": null,
+      "locked": false,
+      "text": "Mixed Messages\n\nTech\n- JavaScript\n\nInput\n- joke category\n\nOutput\n-random joke\n\nproject setup\n- store jokes in an array of objects in\na separate file\n    - object will have 3 keys,\n        - type\n        - setup\n        - punchline\n- JavaScript function to pull random\njoke\n    - will display the joke in the\nconsole\n\nCompleted Project\n- should be able to call the function in\nthe console and a random joke\nmessage will appear\n\nextend project\n- create a single page website with an\ninterface to call for random jokes to\nshow up in the browser. Will need to\nadd CSS, HTML and learn to deploy\nthe website",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Mixed Messages\n\nTech\n- JavaScript\n\nInput\n- joke category\n\nOutput\n-random joke\n\nproject setup\n- store jokes in an array of objects in a separate file\n    - object will have 3 keys,\n        - type\n        - setup\n        - punchline\n- JavaScript function to pull random joke\n    - will display the joke in the console\n\nCompleted Project\n- should be able to call the function in the console and a random joke message will appear\n\nextend project\n- create a single page website with an interface to call for random jokes to show up in the browser. Will need to add CSS, HTML and learn to deploy the website",
+      "autoResize": false,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
